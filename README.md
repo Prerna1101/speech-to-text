@@ -18,5 +18,7 @@ b.	Choose language of conversion
 c.	Choose a user feature from the ones available
 d.	Give audio input via a microphone for speech to text conversion in the language selected
 e.	Output will be displayed and execution will thereby end.
+
 ![With Emojis](https://user-images.githubusercontent.com/71815731/120967072-b28b0d80-c784-11eb-85fd-4bf693245127.jpg)
+
 ![In spanish](https://user-images.githubusercontent.com/71815731/120967115-be76cf80-c784-11eb-8787-3f450f28cbd0.jpg)
